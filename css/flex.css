@@ -1,0 +1,42 @@
+.flex{
+    box-shadow: 0 0 10px green;
+    border: 1px solid goldenrod;
+    border-radius: 10px;
+    padding: 10px;
+}
+.flex{
+    width: 10%;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.flex:nth-child(1)
+{
+    order: 1;
+}
+.flex:nth-child(2)
+{
+    order: 2;
+}
+.flex:nth-child(3)
+{
+    order: 3;
+}
+.flex:nth-child(4)
+{
+    order: 4;
+}
+.flex:nth-child(5)
+{
+    order: 5;
+}
+.flex:nth-child(6)
+{
+    order: 6;
+}
+
+
+   

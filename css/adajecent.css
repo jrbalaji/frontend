@@ -1,0 +1,9 @@
+.brother+small{
+    color:green
+}
+p~small{
+    color: aqua;
+}
+[name="balaji"]{
+    color:blue
+}

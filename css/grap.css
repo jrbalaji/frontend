@@ -1,0 +1,25 @@
+.balaji {
+    font-size: 20px;
+    color: #000;
+}
+.balaji search{
+    color: #86898e;
+    font-size: 11px;
+    height: 36px;
+    width: 100%;
+
+}
+.image{
+ 
+  border: 0;
+    width: 32px;
+    height: 32px;
+    background: #f45b0f;
+    line-height: 32px;
+    border-radius: 4px;
+}
+.krishna{
+    color: #242934;
+    font-size: 20px;
+    font-weight: 900;
+}

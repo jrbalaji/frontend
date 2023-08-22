@@ -1,0 +1,43 @@
+.balaji {
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    border-radius: 50px;
+    animation-name: change;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+/* @keyframes change{ */
+from {
+    /* background-color: red; */
+}
+
+to {
+    /* background-color: yellowgreen; */
+}
+
+
+@keyframes change {
+    0% {
+        background-color: aqua;
+        transform: rotate(360deg);
+        transform: scale(0); 
+     }
+
+    20% {
+        background-color: blueviolet;
+    }
+
+    50% {
+        background-color: chartreuse;
+    }
+
+    75% {
+        background-color: chocolate;
+    }
+
+    100% {
+        background-color: blue;
+    }
+}
